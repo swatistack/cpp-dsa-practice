@@ -30,5 +30,15 @@ int main()
 {
     int num = 56;
     primeNum(num);
+    double prices[] = {5.99, 3.2, 9.99, 29.99};
+
+    cout << prices[2];
+
     return 0;
 }
+
+// #include <iostream>
+// using namespace std;
+
+
+    
